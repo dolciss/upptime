@@ -33,7 +33,9 @@
     "timeWeek": 585,
     "timeMonth": 583,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-21": 0
+    }
   },
   {
     "name": "PDS",
