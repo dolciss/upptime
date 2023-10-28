@@ -22,7 +22,7 @@
     "url": "https://bsky-feed.dolciss.net/.well-known/did.json",
     "icon": "https://icons.duckduckgo.com/ip3/bsky-feed.dolciss.net.ico",
     "slug": "feed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 587,
     "timeMonth": 584,
     "timeYear": 584,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-28": 0
+    }
   },
   {
     "name": "PDS",
