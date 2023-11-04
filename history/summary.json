@@ -13,7 +13,7 @@
     "time": 153,
     "timeDay": 124,
     "timeWeek": 148,
-    "timeMonth": 153,
+    "timeMonth": 149,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://bsky-feed.dolciss.net/.well-known/did.json",
     "icon": "https://icons.duckduckgo.com/ip3/bsky-feed.dolciss.net.ico",
     "slug": "feed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,9 +31,11 @@
     "time": 604,
     "timeDay": 737,
     "timeWeek": 677,
-    "timeMonth": 604,
+    "timeMonth": 613,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-04": 0
+    }
   },
   {
     "name": "PDS",
@@ -49,7 +51,7 @@
     "time": 480,
     "timeDay": 530,
     "timeWeek": 519,
-    "timeMonth": 480,
+    "timeMonth": 484,
     "timeYear": 480,
     "dailyMinutesDown": {}
   }
