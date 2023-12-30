@@ -22,19 +22,19 @@
     "url": "https://bsky-feed.dolciss.net/.well-known/did.json",
     "icon": "https://icons.duckduckgo.com/ip3/bsky-feed.dolciss.net.ico",
     "slug": "feed",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 503,
-    "timeWeek": 498,
-    "timeMonth": 534,
-    "timeYear": 564,
+    "time": 562,
+    "timeDay": 488,
+    "timeWeek": 493,
+    "timeMonth": 531,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2023-12-30": 0
+      "2023-12-30": 6
     }
   },
   {
