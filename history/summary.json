@@ -22,18 +22,20 @@
     "url": "https://bsky-feed.dolciss.net/.well-known/did.json",
     "icon": "https://icons.duckduckgo.com/ip3/bsky-feed.dolciss.net.ico",
     "slug": "feed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 11794,
-    "timeWeek": 1706,
-    "timeMonth": 880,
+    "timeDay": 6239,
+    "timeWeek": 1604,
+    "timeMonth": 874,
     "timeYear": 635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   },
   {
     "name": "PDS",
