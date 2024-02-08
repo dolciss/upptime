@@ -22,18 +22,19 @@
     "url": "https://bsky-feed.dolciss.net/.well-known/did.json",
     "icon": "https://icons.duckduckgo.com/ip3/bsky-feed.dolciss.net.ico",
     "slug": "feed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "94.50%",
+    "uptimeDay": "94.49%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
-    "time": 633,
-    "timeDay": 4242,
-    "timeWeek": 1481,
-    "timeMonth": 856,
-    "timeYear": 633,
+    "time": 630,
+    "timeDay": 3251,
+    "timeWeek": 1381,
+    "timeMonth": 839,
+    "timeYear": 630,
     "dailyMinutesDown": {
+      "2024-02-08": 0,
       "2024-02-07": 79
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://bsky-v3.dolciss.net/xrpc/_health",
     "icon": "https://icons.duckduckgo.com/ip3/bsky-v3.dolciss.net.ico",
     "slug": "pds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +54,8 @@
     "timeWeek": 501,
     "timeMonth": 485,
     "timeYear": 465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-08": 0
+    }
   }
 ]
