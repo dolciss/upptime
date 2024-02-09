@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 143,
-    "timeWeek": 132,
+    "timeDay": 138,
+    "timeWeek": 140,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -24,14 +24,14 @@
     "slug": "feed",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "94.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 653,
-    "timeDay": 998,
-    "timeWeek": 1461,
-    "timeMonth": 915,
+    "timeDay": 690,
+    "timeWeek": 1463,
+    "timeMonth": 910,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2024-02-07": 79
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 484,
-    "timeWeek": 514,
-    "timeMonth": 489,
-    "timeYear": 465,
+    "time": 466,
+    "timeDay": 569,
+    "timeWeek": 521,
+    "timeMonth": 492,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   }
 ]
