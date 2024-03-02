@@ -4,19 +4,19 @@
     "url": "https://dolciss.net/",
     "icon": "https://icons.duckduckgo.com/ip3/dolciss.net.ico",
     "slug": "root",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 127,
-    "timeWeek": 160,
-    "timeMonth": 146,
+    "timeDay": 121,
+    "timeWeek": 155,
+    "timeMonth": 145,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-03-02": 0
+      "2024-03-02": 7
     }
   },
   {
