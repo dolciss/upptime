@@ -8,7 +8,7 @@ sites:
   - name: Feed
     url: https://bsky-feed.dolciss.net/.well-known/did.json
   - name: PDS
-    url: https://bsky-v3.dolciss.net/xrpc/_health
+    url: https://pds.dolciss.net/xrpc/_health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
