@@ -43,19 +43,19 @@
     "url": "https://pds.dolciss.net/xrpc/_health",
     "icon": "https://icons.duckduckgo.com/ip3/pds.dolciss.net.ico",
     "slug": "pds",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 505,
-    "timeDay": 470,
-    "timeWeek": 565,
+    "timeDay": 529,
+    "timeWeek": 568,
     "timeMonth": 588,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-09-03": 0,
+      "2024-09-03": 23,
       "2024-03-02": 33
     }
   }
