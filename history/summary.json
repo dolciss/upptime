@@ -24,9 +24,9 @@
     "slug": "feed",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 591,
     "timeDay": 423,
@@ -34,7 +34,6 @@
     "timeMonth": 562,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2024-09-02": 6,
       "2024-03-02": 32,
       "2024-02-07": 79
     }
@@ -44,11 +43,11 @@
     "url": "https://pds.dolciss.net/xrpc/_health",
     "icon": "https://icons.duckduckgo.com/ip3/pds.dolciss.net.ico",
     "slug": "pds",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 505,
     "timeDay": 470,
@@ -56,7 +55,7 @@
     "timeMonth": 588,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-09-02": 5,
+      "2024-09-03": 0,
       "2024-03-02": 33
     }
   }
