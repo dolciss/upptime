@@ -46,8 +46,8 @@
     "slug": "pds",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 523,
@@ -56,7 +56,6 @@
     "timeMonth": 569,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-01-02": 1,
       "2024-09-03": 23,
       "2024-03-02": 33
     }
