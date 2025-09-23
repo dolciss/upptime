@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 143,
+    "time": 167,
+    "timeDay": 118,
     "timeWeek": 152,
-    "timeMonth": 211,
+    "timeMonth": 210,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -23,21 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsky-feed.dolciss.net.ico",
     "slug": "feed",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 566,
-    "timeDay": 329,
-    "timeWeek": 487,
-    "timeMonth": 520,
-    "timeYear": 559,
-    "dailyMinutesDown": {
-      "2025-06-03": 26,
-      "2025-04-29": 20,
-      "2024-11-20": 32
-    }
+    "timeDay": 308,
+    "timeWeek": 491,
+    "timeMonth": 504,
+    "timeYear": 558,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PDS",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pds2.dolciss.net.ico",
     "slug": "pds",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
-    "timeDay": 571,
-    "timeWeek": 486,
-    "timeMonth": 521,
+    "timeDay": 635,
+    "timeWeek": 523,
+    "timeMonth": 522,
     "timeYear": 537,
-    "dailyMinutesDown": {
-      "2025-06-03": 26
-    }
+    "dailyMinutesDown": {}
   }
 ]
