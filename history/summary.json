@@ -6,15 +6,15 @@
     "slug": "root",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 176,
-    "timeDay": 689,
-    "timeWeek": 340,
+    "timeDay": 332,
+    "timeWeek": 353,
     "timeMonth": 235,
-    "timeYear": 180,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2025-11-18": 96
     }
@@ -26,21 +26,20 @@
     "slug": "feed",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.96%",
-    "time": 619,
-    "timeDay": 543,
-    "timeWeek": 434,
-    "timeMonth": 1345,
-    "timeYear": 606,
+    "time": 618,
+    "timeDay": 225,
+    "timeWeek": 429,
+    "timeMonth": 1331,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-11-18": 113,
       "2025-11-06": 43,
       "2025-06-03": 26,
-      "2025-04-29": 20,
-      "2024-11-20": 32
+      "2025-04-29": 20
     }
   },
   {
@@ -55,10 +54,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 537,
-    "timeDay": 436,
-    "timeWeek": 492,
-    "timeMonth": 509,
-    "timeYear": 529,
+    "timeDay": 395,
+    "timeWeek": 467,
+    "timeMonth": 505,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2025-11-06": 30,
       "2025-06-03": 26
