@@ -1,7 +1,7 @@
 url: https://pds2.dolciss.net/xrpc/_health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-28T15:39:47.149Z
+status: up
+code: 200
+responseTime: 376
+lastUpdated: 2025-11-28T15:57:17.506Z
 startTime: 2023-10-04T15:17:00.637Z
 generator: Upptime <https://github.com/upptime/upptime>
