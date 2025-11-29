@@ -1,7 +1,7 @@
 url: https://bsky-feed.dolciss.net/.well-known/did.json
-status: down
-code: 522
-responseTime: 19543
-lastUpdated: 2025-11-28T15:39:15.497Z
+status: up
+code: 200
+responseTime: 874
+lastUpdated: 2025-11-29T01:01:15.210Z
 startTime: 2023-10-04T15:16:59.628Z
 generator: Upptime <https://github.com/upptime/upptime>
