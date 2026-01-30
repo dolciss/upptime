@@ -7,6 +7,8 @@ sites:
     url: https://dolciss.net/
   - name: Feed
     url: https://bsky-feed.dolciss.net/.well-known/did.json
+  - name: Labeler
+    url: https://imas-labeler.endless.dance/.well-known/did.json
   - name: PDS
     url: https://pds2.dolciss.net/xrpc/_health
 
