@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 179,
-    "timeDay": 155,
-    "timeWeek": 163,
-    "timeMonth": 179,
+    "timeDay": 191,
+    "timeWeek": 171,
+    "timeMonth": 180,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-11-18": 96
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 651,
-    "timeDay": 172,
-    "timeWeek": 460,
-    "timeMonth": 566,
+    "time": 649,
+    "timeDay": 465,
+    "timeWeek": 493,
+    "timeMonth": 571,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2025-11-29": 61,
@@ -43,6 +43,24 @@
       "2025-06-03": 26,
       "2025-04-29": 20
     }
+  },
+  {
+    "name": "Labeler",
+    "url": "https://imas-labeler.endless.dance/.well-known/did.json",
+    "icon": "https://icons.duckduckgo.com/ip3/imas-labeler.endless.dance.ico",
+    "slug": "labeler",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5396,
+    "timeDay": 5396,
+    "timeWeek": 5396,
+    "timeMonth": 5396,
+    "timeYear": 5396,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PDS",
@@ -56,8 +74,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 528,
-    "timeDay": 390,
-    "timeWeek": 491,
+    "timeDay": 451,
+    "timeWeek": 494,
     "timeMonth": 504,
     "timeYear": 515,
     "dailyMinutesDown": {
