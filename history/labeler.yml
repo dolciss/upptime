@@ -1,7 +1,7 @@
 url: https://imas-labeler.endless.dance/.well-known/did.json
-status: up
-code: 200
-responseTime: 975
-lastUpdated: 2026-01-30T13:24:54.059Z
+status: down
+code: 521
+responseTime: 555
+lastUpdated: 2026-01-31T11:26:26.472Z
 startTime: 2026-01-30T03:58:30.922Z
 generator: Upptime <https://github.com/upptime/upptime>
