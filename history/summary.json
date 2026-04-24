@@ -4,9 +4,9 @@
     "url": "https://dolciss.net/",
     "icon": "https://icons.duckduckgo.com/ip3/dolciss.net.ico",
     "slug": "root",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 193,
     "timeYear": 192,
     "dailyMinutesDown": {
+      "2026-04-24": 0,
       "2026-04-16": 21,
       "2025-11-18": 96
     }
